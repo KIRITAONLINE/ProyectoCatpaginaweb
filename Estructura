@@ -1,0 +1,7 @@
+proyecto
+├── assets
+│   ├── css
+│   │   └── estilos.css
+│   └── img
+│       └── imagen.jpg
+└── index.html
